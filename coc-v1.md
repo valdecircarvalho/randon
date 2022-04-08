@@ -10,7 +10,7 @@ The OCI DevRel Public Slack is a dedicated community for anyone to gather for su
 
 By using this Slack Channel, you agree to abide by the following Code of Conduct, the [Slack Acceptable Use Policy](ttps://slack.com/acceptable-use-policy), and the [Oracle privacy policy](https://www.oracle.com/legal/privacy/) (pinned to the #general channel). We reserve the right to update this code of conduct at any time. When updates do occur, a message will be posted in the proper channels to notify users.
 
-## Update Your Profile :red_circle:
+## Update Your Profile :new:
 
 We’d love it if you took the time to update your profile and add a picture!
 
