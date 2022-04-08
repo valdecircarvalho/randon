@@ -18,7 +18,7 @@ Share your pronouns with the other members! Add it at the end of your Full Name 
 
 Add your interests or keywords (like ‘Kubernetes’ or ‘Serverless’ or ‘Java’) in the “What I do” section of your profile in addition to your Title and Company/Organization – that way other members can search for each other by these common interests. To foster more accountability for what people post, **no anonymous display names are allowed.
 
-## Be Respectful
+## Be Respectful :new:
 
 + Be open and respectful to every member – sharing is caring and everyone should be here with the attitude to learn and collaborate
 + Have a positive attitude — be friendly, helpful, and encouraging.
@@ -26,9 +26,15 @@ Add your interests or keywords (like ‘Kubernetes’ or ‘Serverless’ or ‘
 + Be appreciative to those that have answered your questions.
 + No one is perfect, and even well-intentioned people make mistakes.  Be kind in your discussions with others and remember that everyone’s life experiences are different.
 
+## Be Relevant :new:
+
++ Ask questions and contribute — be sure to ask folks for help or advice and provide feedback where you’re able to.
+
++ Stay on topic – We have created different channels for specific topics. Please keep your posts relevant to the channel you are in to avoid any confusion.
+
 ## Expectations:
 
-The OCI DevRel Public Slack is not an official support channel of Oracle. While this Slack may contain Oracle employees who are happy to assist where they can, please refrain from mentioning or messaging Oracle employees with direct questions. If you have a question in which you require direct support from Oracle, please use our [official support channel or the community forums](https://support.oracle.com/MMOS/faces/welcome.jspx). Oracle reserves the right to enforce, interpret, and extend these guidelines for the betterment of the community.
+The OCI DevRel Public Slack **is not an official support channel of Oracle**. While this Slack may contain Oracle employees who are happy to assist where they can, please refrain from mentioning or messaging Oracle employees with direct questions. If you have a question in which you require direct support from Oracle, please use our [official support channel or the community forums](https://support.oracle.com/MMOS/faces/welcome.jspx). Oracle reserves the right to enforce, interpret, and extend these guidelines for the betterment of the community.
 
 The current admins are:
 
@@ -47,11 +53,11 @@ It is unacceptable to message users directly offering your services unless the u
 
 This Slack has many channels tailored toward various functionalities and many users. When posting your message, please use the appropriate channel for posting your message. It is unacceptable to copy/paste your message across multiple channels for added visibility, post the same message or similar message frequently within the same channel, and/or directly spam users.
 
-## There are no stupid questions!
+## There are no stupid questions! :new:
 
 This community and the entire workspace is a supportive space where you can ask other members questions you might think are silly or have obvious answers. The chances are, if you have the question, someone else does too!
 
-## Social Rules
+## Social Rules :new:
 
 + Use inclusive language. We strive to create a diverse and safe community in which everyone is comfortable participating. When posting in channels, avoid using words such as “guys” or “ladies and gentlemen” to address a channel. Possible alternatives: “all,” “everyone,” “K8s friends.”
 + Don’t be a jerk – we’re all in this together.
@@ -67,7 +73,7 @@ This community and the entire workspace is a supportive space where you can ask 
 + We have disabled the ability to tag an entire channel with @here or @channel. 
 + All posts reflect the views and opinions of its author and do not necessarily reflect the views of Oracle or its employees. As a participating attendee you are solely responsible for anything you post.
 
-## Behaviors to Avoid
+## Behaviors to Avoid 
 
 + Any forms of disrespect — We do not tolerate impolite or offensive behaviors, including the use of explicit or vulgar language, images, and/or messages (e.g. racist or sexist remarks).
 + Spamming or trolling other members.
